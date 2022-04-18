@@ -1,0 +1,2 @@
+# POP-REMOVE-DISCARD-in-al-set
+POP/REMOVE AND DISCARD in a set
